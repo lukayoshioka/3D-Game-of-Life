@@ -13,5 +13,5 @@ Any live cell with two or three live neighbours lives.
 Any live cell with more than three live neighbours dies.
 Any dead cell with exactly five live neighbours becomes a live cell.
 
-Those are in the hard generation setting, the easy 3D game uses the same rules as the 2D version. This is coded with javascript using Three.js. Download the three.js-master folder from https://threejs.org/ and put the three.js-master folder in the same folder as the chaos.html file in order for the project to run.
+Those are in the hard generation setting, the easy 3D game uses the same rules as the 2D version. This is coded with javascript using Three.js. Download the three.js-master folder from https://threejs.org/ and put the three.js-master folder in the same folder as the Game of Life.html file in order for the project to run.
 
